@@ -1,2 +1,2 @@
-# well_24
+# web_24
 Projects from 8th Grade Web class
